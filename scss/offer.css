@@ -1,0 +1,29 @@
+.offer {
+  background: #EEEFF1;
+}
+.offer__title {
+  margin: 0;
+  padding-top: 142px;
+  padding-bottom: 44px;
+  font-weight: 500;
+  font-size: 48px;
+  color: #000;
+}
+.offer__description {
+  margin-bottom: 49px;
+  max-width: 540px;
+}
+
+.button {
+  border: 0;
+  margin-bottom: 141px;
+  padding: 25px 51px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #fff;
+  background: #34547A;
+  cursor: pointer;
+}
+.button:hover, .button:focus {
+  text-decoration: none;
+}/*# sourceMappingURL=offer.css.map */

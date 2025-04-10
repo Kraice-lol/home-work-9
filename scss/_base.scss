@@ -1,0 +1,16 @@
+@import "mixins";
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+          "wdth" 100;
+  @include background(#f9f9f9);
+  @include color(#727272);
+  line-height: 1.64;
+}
+
+.conteiner {
+  padding: 0 calc(50vw - 555px);
+}
